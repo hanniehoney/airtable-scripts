@@ -1,8 +1,8 @@
 // Get the table
-let table = base.getTable("Segment");
+let table = base.getTable("Your Table Name");
 
 // Get the field
-let field = table.getField("Sub-Categories");
+let field = table.getField("Your Field Name");
 
 // Get the options
 let options = field.options;
